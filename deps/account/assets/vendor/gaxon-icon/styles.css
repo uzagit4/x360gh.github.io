@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "gaxondrift";
-  src: url("http://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.eot");
-  src: url("http://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.eot?#iefix") format("embedded-opentype"),
-  url("http://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.woff") format("woff"),
-  url("http://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.ttf") format("truetype"),
-  url("http://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.svg#gaxondrift") format("svg");
+  src: url("https://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.eot");
+  src: url("https://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.eot?#iefix") format("embedded-opentype"),
+  url("https://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.woff") format("woff"),
+  url("https://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.ttf") format("truetype"),
+  url("https://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.svg#gaxondrift") format("svg");
   font-weight: normal;
   font-style: normal;
 
