@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "gaxondrift";
-  src: url("fonts/gaxondrift.eot");
-  src: url("fonts/gaxondrift.eot?#iefix") format("embedded-opentype"),
-  url("fonts/gaxondrift.woff") format("woff"),
-  url("fonts/gaxondrift.ttf") format("truetype"),
-  url("fonts/gaxondrift.svg#gaxondrift") format("svg");
+  src: url("http://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.eot");
+  src: url("http://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.eot?#iefix") format("embedded-opentype"),
+  url("http://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.woff") format("woff"),
+  url("http://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.ttf") format("truetype"),
+  url("http://x360gh.github.io/deps/account/assets/vendor/gaxon-icon/fonts/gaxondrift.svg#gaxondrift") format("svg");
   font-weight: normal;
   font-style: normal;
 
