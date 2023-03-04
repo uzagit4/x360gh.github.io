@@ -23,7 +23,7 @@ function load_page(ops) {
     container = $('.app-page-content'),
     loader = $(container).children()[0],
     content = $(container).children()[1],
-    page = 'http://localhost/account.hl/pages/' + target + '.html',
+    page = 'http://x360gh.github.io/account.hl/pages/' + target + '.html',
     titles = {
         dash: 'Dashboard',
         wallet: 'Wallet',
