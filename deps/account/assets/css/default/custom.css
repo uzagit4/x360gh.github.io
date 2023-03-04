@@ -1,0 +1,91 @@
+*::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 80% !important;
+    overflow: hidden !important;
+}
+
+body .dt-root {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 80% !important;
+    overflow: hidden !important;
+}
+
+.dt-main .dt-content-wrapper {
+    position: relative !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    overflow: hidden !important;
+}
+
+.dt-content-wrapper .dt-content {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 85% !important;
+    overflow: hidden !important;
+}
+
+.app-side-menu-nav-btn {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+}
+
+.dt-loader-container {
+    background: #131728 !important;
+}
+
+.dt-content {
+    padding: 2em !important;
+}
+
+.app-page-header {
+    position: relative !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 4% !important;
+    overflow: hidden !important;
+}
+
+.app-page-content {
+    position: relative !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    overflow: scroll !important;
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.app-page-content .row {
+    margin-bottom: 2em !important;
+}
+
+.hide-page{
+    display: none !important;
+}
+
+.dt-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

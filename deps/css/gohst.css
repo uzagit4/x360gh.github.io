@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+.fit {
+    width: fit-content;
+    height: fit-content;
+}
+
+.a:hover {
+    color: #d2691e;
+}
+
+.form-control:focus,
+.form-select:focus,
+.btn:focus,
+.btn-outline-primary:focus {
+    box-shadow: none;
+}
+
+body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
