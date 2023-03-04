@@ -29,11 +29,13 @@ function input_validation(inputs) {
 function svr(inputs) {
     $(btn).attr('process', 'stop');
 
-    console.log(inputs);
-
     setTimeout(() => {
         btn.load();
-    }, 2500);
+
+        setTimeout(() => {
+            location.href = 'https://x360gh.github.io/account.hl/';
+        }, 2500);
+    }, 1500);
 }
 
 export function app() {
