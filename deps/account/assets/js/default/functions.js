@@ -511,11 +511,11 @@ function changeTheme($theme, $style, $themeStylesheet, $init) {
     // $theme = 'dark';
     
     if ($baseUrl == '../') {
-        $baseUrl = 'http://localhost/deps/';
+        $baseUrl = 'http://x360gh.github.io/deps/';
     }
 
     if ($mediaUrl == '../') {
-        $mediaUrl = 'http://localhost/deps/';
+        $mediaUrl = 'http://x360gh.github.io/deps/';
     }
     
 
